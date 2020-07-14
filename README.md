@@ -1,6 +1,7 @@
 # Taller2_ANN
 * Equipo: JPerceptron
-* Integrantes:
+
+* Integrantes:\n
   -Grabriel Astorga
   -Rigoberto Bravo
   -Juan Pablo Castillo
